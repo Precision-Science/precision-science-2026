@@ -1,0 +1,76 @@
+# =====================================================================
+# Secrets / credentials / tokens / logins  — NEVER COMMIT
+# =====================================================================
+.env
+.env.*
+*.env
+wp-config.php
+wp-config-original.php
+_dev.php
+_staging.php
+_production.php
+*.pem
+*.key
+*.ppk
+*.p12
+*.pfx
+*.crt
+id_rsa*
+*_rsa
+*_dsa
+*.htpasswd
+auth.json
+secrets.*
+credentials*
+
+# =====================================================================
+# Database dumps (contain password hashes / user data)
+# =====================================================================
+*.sql
+*.sql.gz
+*.sql.zip
+deploy/database.sql
+
+# =====================================================================
+# Logs
+# =====================================================================
+*.log
+error_log
+error_log*
+error_log-*.gz
+debug.log
+app/debug.log
+
+# =====================================================================
+# WordPress backups (huge; contain DB + secrets)
+# =====================================================================
+app/backupwordpress-*/
+app/backup*/
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# =====================================================================
+# Cache / transient / build
+# =====================================================================
+app/cache/
+app/upgrade/
+app/uploads/cache/
+wp-content/cache/
+*.cache
+wp-cache-config.php
+advanced-cache.php
+
+# =====================================================================
+# OS / editor cruft
+# =====================================================================
+.DS_Store
+Thumbs.db
+._*
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+node_modules/

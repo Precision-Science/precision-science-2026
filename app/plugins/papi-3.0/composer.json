@@ -1,0 +1,44 @@
+{
+  "name": "wp-papi/papi",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "description": "WordPress Page Type API with custom fields",
+  "homepage": "https://wp-papi.github.io",
+  "authors": [
+    {
+      "name": "Fredrik Forsmo",
+      "email": "fredrik.forsmo@gmail.com",
+      "homepage": "https://github.com/frozzare"
+    }
+  ],
+  "keywords": [
+    "wordpress",
+    "custom fields",
+    "page type",
+    "page"
+  ],
+  "support": {
+    "issues": "https://github.com/wp-papi/papi/issues"
+  },
+  "require": {
+    "php": ">=5.4.7",
+    "composer/installers": "~1.0"
+  },
+  "require-dev": {
+    "frozzare/wp-test-suite": "~1.0",
+    "wp-coding-standards/wpcs": "dev-develop",
+    "sebastian/phpcpd": "~2.0@dev",
+    "behat/behat": "~2.5"
+  },
+  "scripts": {
+    "post-install-cmd": "if [ -f vendor/bin/phpcs ]; then \"vendor/bin/phpcs\" --config-set installed_paths vendor/wp-coding-standards/wpcs; fi",
+    "post-update-cmd" : "if [ -f vendor/bin/phpcs ]; then \"vendor/bin/phpcs\" --config-set installed_paths vendor/wp-coding-standards/wpcs; fi"
+  },
+  "extra": {
+      "branch-alias": {
+          "dev-master": "3.0-dev"
+      }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}

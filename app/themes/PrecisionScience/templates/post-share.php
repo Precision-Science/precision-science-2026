@@ -1,0 +1,3 @@
+<a href="#" data-permalink="<?php echo get_the_permalink(); ?>" data-title="<?php echo get_the_title(); ?>" data-platform="twitter" class="ctrl-share social-share social-share--twitter"><span class="sr-only">Share on </span>Twitter</a>
+<a href="#" data-permalink="<?php echo get_the_permalink(); ?>" data-title="<?php echo get_the_title(); ?>" data-platform="linkedin" class="ctrl-share social-share social-share--linkedin"><span class="sr-only">Share on </span>LinkedIn</a>
+<a href="#" data-permalink="<?php echo get_the_permalink(); ?>" data-title="<?php echo get_the_title(); ?>" data-platform="email" class="ctrl-share social-share social-share--email"><span class="sr-only">Share on </span>Email</a>

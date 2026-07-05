@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="200px" height="100px" viewBox="0 0 200 100" enable-background="new 0 0 200 100" xml:space="preserve">
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="1.082" y="9.782" width="198.918" height="80"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="23.238,65.408 
+			48.545,65.408 48.545,55.889 14.099,55.889 13.733,55.889 13.733,89.773 22.975,89.773 22.975,65.551 		"/>
+		<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M13.738,22.625l69.152-0.009
+			l0.147-0.062c14.927,0.134,26.985,12.24,26.985,27.146c0,14.932-12.098,27.047-27.056,27.15l-0.241-0.009l-16.918-0.018V42.551
+			h9.555v24.95l0.794-0.018h6.591l0.361-0.004c9.667-0.196,17.444-8.068,17.444-17.743c0-9.729-7.854-17.627-17.587-17.747H23.203
+			l-0.228,0.004v10.362l0.009,0.188l25.494,0.009l0.027,9.514l-34.661-0.004l-0.107-0.005V22.625z"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="152.242,10.153 
+			194.021,80.576 199.986,70.692 162.962,10.153 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="109.37,89.782 
+			152.21,18.408 187.541,76.877 138.841,76.877 138.841,67.755 170.458,67.755 152.21,37.307 122.303,89.782 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="194.021,80.576 
+			138.841,80.563 138.841,89.782 188.594,89.765 188.67,89.542 		"/>
+		<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M52.286,80.277l0.04-37.731h9.55
+			v37.731l-0.004,0.071h20.871l0.223,0.009c16.909-0.116,30.583-13.812,30.583-30.693c0-16.846-13.638-30.533-30.507-30.689
+			l-0.299,0.005H10.324v70.798H1.086V9.787l81.656-0.004h0.37c19.421,0.174,35.54,13.665,39.025,32.05l19.386-31.679h10.719
+			L119,65.832l-3.227,5.449c-7.144,10.478-19.015,18.283-32.661,18.403h-0.37H52.286V80.277z"/>
+	</g>
+</g>
+</svg>
